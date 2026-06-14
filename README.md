@@ -1,4 +1,4 @@
-# MetalLiger ⚡ v0.3.0 — Fused Metal Kernels for PyTorch MPS
+# MetalLiger ⚡ — Fused Metal Kernels for TrlMPS
 
 > **Liger Kernel for Apple Silicon** — 66% less memory per op, ~1.8GB activation memory saved via fused LoRA backward, chunked CE loss eliminates 740MB logit spike.
 
